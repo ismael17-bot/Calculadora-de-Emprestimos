@@ -27,7 +27,7 @@ const LoanResult = ({schedule}) => {
                                 <td>{item.balance}</td>
                                 <td>{item.consolidated}</td>
                                 <td>{item.total}</td>
-                                <td>{item.principal}</td>
+                                <td>{item.amortization}</td>
                                 <td>{item.principalBalance}</td>
                                 <td>{item.provision}</td>
                                 <td>{item.accumulatedInterest}</td>
